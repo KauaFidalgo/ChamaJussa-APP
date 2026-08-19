@@ -1,0 +1,32 @@
+{
+    "JussaItens": [
+        {
+            "id": 1,
+            "nome": "OS-001",
+            "atividade": "Aberto",
+            "titleProblem": "Vazamento Hidráulico na Sala B",
+            "descricaoProblem": "Há um vazamento constante de água por baixo da pia do banheiro masculino do segundo andar do Bloco B."
+        },
+        {
+            "id": 2,
+            "nome": "OS-002",
+            "atividade": "Em Andamento",
+            "titleProblem": "Lâmpada queimada na sala 204",
+            "descricaoProblem": "A lâmpada da sala 204 está queimada e precisa ser substituída."
+        },
+        {
+            "id": 3,
+            "nome": "OS-003",
+            "atividade": "Aberto",
+            "titleProblem": "Porta danificada no laboratório",
+            "descricaoProblem": "A porta de entrada do laboratório apresenta problemas na fechadura e não está fechando corretamente."
+        },
+        {
+            "id": 4,
+            "nome": "OS-004",
+            "atividade": "Em Andamento",
+            "titleProblem": "Computador não liga",
+            "descricaoProblem": "O computador localizado na sala de informática não está ligando."
+        }
+    ]
+}
