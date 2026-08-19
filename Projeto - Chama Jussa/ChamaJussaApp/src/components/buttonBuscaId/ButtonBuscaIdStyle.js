@@ -31,9 +31,8 @@ export const styles = StyleSheet.create({
     },
 
     botaoSelecionado: {
-        backgroundColor: "#ed1c24",
-
-        borderColor: "#ed1c24",
+        backgroundColor: "#22c55e",
+        borderColor: "#22c55e",
     },
 
     texto: {

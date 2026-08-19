@@ -17,7 +17,7 @@ export function Footer() {
                 <Ionicons
                     name="clipboard-outline"
                     size={28}
-                    color="#ed1c24"
+                    color="#4B9A4B"
                 />
 
                 <Text style={[styles.texto, styles.textoAtivo]}>
@@ -36,7 +36,7 @@ export function Footer() {
                 <Ionicons
                     name="add-circle-outline"
                     size={31}
-                    color="#999999"
+                    color="#4B9A4B"
                 />
 
                 <Text style={styles.texto}>
@@ -55,7 +55,7 @@ export function Footer() {
                 <Ionicons
                     name="notifications-outline"
                     size={29}
-                    color="#999999"
+                    color="#4B9A4B"
                 />
 
                 <Text style={styles.texto}>
@@ -74,7 +74,7 @@ export function Footer() {
                 <Ionicons
                     name="person-outline"
                     size={29}
-                    color="#999999"
+                    color="#4B9A4B"
                 />
 
                 <Text style={styles.texto}>

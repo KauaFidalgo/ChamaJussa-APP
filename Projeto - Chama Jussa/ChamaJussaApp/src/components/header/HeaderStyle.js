@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
 
         borderWidth: 1,
 
-        borderColor: "#3d1012",
+        borderColor: "#123d20",
 
         borderRadius: 12,
 
@@ -25,7 +25,7 @@ export const styles = StyleSheet.create({
 
         marginBottom: 10,
 
-        shadowColor: "#ed1c24",
+        shadowColor: "#22c55e",
 
         shadowOffset: {
             width: 0,
@@ -77,7 +77,7 @@ export const styles = StyleSheet.create({
 
 
     headerTexto: {
-        color: "#ed1c24",
+        color: "#22c55e",
 
         fontSize: 17,
 
@@ -90,7 +90,7 @@ export const styles = StyleSheet.create({
 
         paddingHorizontal: 14,
 
-        backgroundColor: "#ed1c24",
+        backgroundColor: "#22c55e",
 
         borderRadius: 8,
 
@@ -102,7 +102,7 @@ export const styles = StyleSheet.create({
 
         gap: 7,
 
-        shadowColor: "#ed1c24",
+        shadowColor: "#22c55e",
 
         shadowOffset: {
             width: 0,

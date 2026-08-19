@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
 
         borderWidth: 1,
 
-        borderColor: "#591114",
+        borderColor: "#14591f",
 
         borderRadius: 12,
 
@@ -27,7 +27,7 @@ export const styles = StyleSheet.create({
     },
 
     id: {
-        color: "#ff1b24",
+        color: "#22c55e",
 
         fontSize: 18,
 
@@ -57,7 +57,7 @@ export const styles = StyleSheet.create({
 
         alignItems: "center",
 
-        backgroundColor: "#321013",
+        backgroundColor: "#103218",
 
         paddingHorizontal: 12,
 
@@ -73,13 +73,13 @@ export const styles = StyleSheet.create({
 
         borderRadius: 10,
 
-        backgroundColor: "#ff1b24",
+        backgroundColor: "#22c55e",
 
         marginRight: 6,
     },
 
     statusTexto: {
-        color: "#ff1b24",
+        color: "#22c55e",
 
         fontSize: 13,
 

@@ -50,9 +50,8 @@ export const styles = StyleSheet.create({
 
 
     textoAtivo: {
-        color: "#ed1c24",
+        color: "#22c55e",
 
         fontWeight: "500",
     },
-
 });

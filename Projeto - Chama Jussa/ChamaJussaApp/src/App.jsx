@@ -102,7 +102,7 @@ export default function App() {
                 return status === filtro;
 
             });
-            
+
 
 
     return (
@@ -139,7 +139,7 @@ export default function App() {
 
                                 <ActivityIndicator
                                     size="large"
-                                    color="#ed1c24"
+                                    color="#22c55e"
                                 />
 
                                 <Text style={styles.loadingText}>
@@ -226,7 +226,7 @@ export default function App() {
 
                     <Footer />
 
-                    
+
 
                 </View>
 
